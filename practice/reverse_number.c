@@ -1,3 +1,5 @@
+// reverse a number
+
 #include<stdio.h>
 
 void main(){
