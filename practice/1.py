@@ -1,4 +1,4 @@
-# program to generate multiplication tableS
+# program to generate multiplication table
 
 x = int(input("Enter number to generate multiplication table: "))
 
